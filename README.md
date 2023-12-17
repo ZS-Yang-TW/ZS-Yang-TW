@@ -2,7 +2,8 @@
 
 ## 🚀 關於我 About Me
 
-I'm a passionate web developer and researcher in Python, as well as a deep interest in AI and educational technology. I founded my own educational technology studio, and I'm actively engaged in innovative projects and research in the field of computer science.
+I am a web developer deeply passionate about **Python**, specializing in creating web applications with **Django** and **Django REST Framework**.
+My expertise extends beyond web development to encompass artificial intelligence and educational technology. Driven by my interests in education, teaching, and philosophy. Independently established an educational technology studio 艾姆耶教育科技工作室 in 2023.
 
 🎓 **教育背景 Educational Background:**
 - B.S. in Electrical Engineering, National Taiwan Normal University (2017-2021)
