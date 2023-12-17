@@ -52,10 +52,9 @@ I'm a passionate web developer and researcher in Python, as well as a deep inter
 
 ## 🛠️ Side Projects
 
-- [咖插Catcha](https://taipei-cafes.netlify.app/): A guide for digital nomads seeking coffee shops.
-- MathyPocket: Real-time math tutoring using generative AI and multimedia systems.
-- Comprehensive Python learning materials and hands-on project tutorials.
-- Course and material design for Hon Hai's "Introduction to AI".
-- Teaching projects with Pytorch and Mediapipe/OpenCV.
+- [咖插 Catcha](https://taipei-cafes.netlify.app/): A guide for digital nomads seeking coffee shops.
+- [魔數口袋 MathyPocket](): Real-time math tutoring using generative AI and multimedia systems.
+- [Python 學習讀書會](https://www.notion.so/Python-d12c0389e5874dceb9273432b849cd59) Comprehensive Python learning materials and hands-on project tutorials.
+- [鴻海人工智慧導論教材設計](https://www.foxconnfoundation.org/plan/aicourse)Course and material design for Hon Hai's "Introduction to AI".
 
 Feel free to browse my repositories and don't hesitate to reach out for collaborations or discussions!
