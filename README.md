@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer and researcher with a strong background in both front-end and back-end technologies, as well as a deep interest in AI and educational technology. I founded my own educational technology studio, and I'm actively engaged in innovative projects and research in the field of computer science.
+I'm a passionate web developer and researcher in Python, as well as a deep interest in AI and educational technology. I founded my own educational technology studio, and I'm actively engaged in innovative projects and research in the field of computer science.
 
 🎓 **Educational Background:**
 - B.S. in Electrical Engineering, National Taiwan Normal University (2017-2021)
@@ -11,18 +11,20 @@ I'm a passionate developer and researcher with a strong background in both front
 
 ## 💻 Technical Skills
 
+### Backend
+- Expertise in: Python
+- Experienced with C, Node.js
+
 ### Frontend
 - Proficient in: HTML, CSS, JavaScript
 - Learning: React, Next.js
 
-### Backend
-- Expertise in: Python, C, Node.js
-
 ### Web Application Frameworks
-- Mastery of Django, Django REST Framework, Django Channels, drf-spectacular, Flask
+- Mastery of Django, Django REST Framework
+- Experienced with Django Channels, drf-spectacular
 
 ### Databases
-- Experienced with PostgreSQL
+- Experienced with PostgreSQL, Redis
 
 ### Testing
 - Skilled in unittest and pytest
@@ -50,14 +52,10 @@ I'm a passionate developer and researcher with a strong background in both front
 
 ## 🛠️ Side Projects
 
-- Catcha: A guide for digital nomads seeking coffee shops.
+- [咖插Catcha](https://taipei-cafes.netlify.app/): A guide for digital nomads seeking coffee shops.
 - MathyPocket: Real-time math tutoring using generative AI and multimedia systems.
 - Comprehensive Python learning materials and hands-on project tutorials.
 - Course and material design for Hon Hai's "Introduction to AI".
 - Teaching projects with Pytorch and Mediapipe/OpenCV.
 
 Feel free to browse my repositories and don't hesitate to reach out for collaborations or discussions!
-
----
-
-This template provides a concise yet comprehensive introduction to your GitHub profile, highlighting your skills, education, experiences, and achievements. You can further customize it to add more personal flair or specific details about your projects and interests.
