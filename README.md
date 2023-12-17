@@ -55,6 +55,7 @@ My expertise extends beyond web development to encompass artificial intelligence
 - [咖插 Catcha](https://taipei-cafes.netlify.app/) : A guide for digital nomads seeking coffee shops.
 - [魔數口袋 MathyPocket]() : Real-time math tutoring using generative AI and multimedia systems.
 - [Python 學習讀書會](https://www.notion.so/Python-d12c0389e5874dceb9273432b849cd59) : Comprehensive Python learning materials and hands-on project tutorials.
-- [鴻海《人工智慧導論》教材設計](https://www.foxconnfoundation.org/plan/aicourse) : Course and material design for 鴻海教育基金會
+- [鴻海《人工智慧導論》教材設計](https://www.foxconnfoundation.org/plan/aicourse) : Course and material design for 鴻海教育基金會.
+- [數位藝術創作-氣息的具象](https://openprocessing.org/sketch/1795204)
 
 Feel free to browse my repositories and don't hesitate to reach out for collaborations or discussions!
