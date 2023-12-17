@@ -15,12 +15,9 @@ My expertise extends beyond web development to encompass artificial intelligence
 ### 後端 Backend
 - Expertise in: Python
 - Experienced with C, Node.js
-- Mastery of Django, Django REST Framework
-- Experienced with Django Channels, drf-spectacular
 
-### 前端 Frontend
-- Proficient in: HTML, CSS, JavaScript
-- Learning: React, Next.js
+- Familiar with Django, Django REST Framework
+- Experienced with Django Channels, drf-spectacular
 
 ### 資料庫 Databases
 - Experienced with PostgreSQL, Redis
@@ -30,8 +27,12 @@ My expertise extends beyond web development to encompass artificial intelligence
 
 ### 開發維運 DevOps
 - Proficient in Git/GitHub, Makefile, Docker, docker-compose, Poetry, Pre-commit, Terraform
-- Learning Kubernetes
 - Experienced with AWS
+- Now Learning: Kubernetes
+
+### 前端 Frontend
+- Basic HTML, CSS, JavaScript
+- Now Learning: React, Next.js
 
 ### 其他技能 Other Skills
 - Creative with Manim and p5.js
@@ -41,7 +42,7 @@ My expertise extends beyond web development to encompass artificial intelligence
 - Founder and Backend/System Development Engineer at Aimye Educational Technology Studio since June 2023.
 - Seed Instructor for "Introduction to AI" by Hon Hai Education Foundation (2022-2023).
 - First Prize in NTNU Electrical Engineering Project Competition (2020, 2023).
-- Participated in Ustart Innovation and Entrepreneurship Program (2023).
+- Participated in Ustart 創新創業計畫 (2023).
 
 ## 📚 研究與出版 Research & Publications
 
