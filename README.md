@@ -3,6 +3,7 @@
 ## 🚀 關於我 About Me
 
 I am a web developer deeply passionate about **Python**, specializing in creating web applications with **Django** and **Django REST Framework**.
+
 My expertise extends beyond web development to encompass artificial intelligence and educational technology. Driven by my interests in education, teaching, and philosophy. Independently established an educational technology studio 艾姆耶教育科技工作室 in 2023.
 
 🎓 **教育背景 Educational Background:**
